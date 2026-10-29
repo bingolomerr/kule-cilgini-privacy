@@ -38,3 +38,5 @@ Oyunumuz bilerek 13 yaşın altındaki çocuklardan kişisel veri toplamaz. Ebev
 Hesabınızın silinmesini veya verilerinizin temizlenmesini talep etmek için bizimle iletişime geçebilirsiniz.
 
 İletişim E-postası: omer0190773@gmail.com
+
+Veri Silme Talebi: Oyundaki takma adınızın veya skor verilerinizin silinmesini istiyorsanız, e-posta adresimiz (destek@bingos.com) üzerinden bizimle iletişime geçebilirsiniz. Talebiniz en kısa sürede işleme alınacaktır.
